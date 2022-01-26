@@ -42,7 +42,7 @@
 <a href="https://github.com/snehel4510/github-readme-activity-graph"><img alt="Snehel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehel4510&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 
-## Connect with me ❤
+## ❤ Connect with me :
 <p align="left">
   <a href = "mailto::sahilrps31@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.linkedin.com/in/snehel-922b75201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
