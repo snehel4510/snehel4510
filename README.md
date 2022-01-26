@@ -32,9 +32,11 @@
 
 ## 📊 My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehel4510&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehel4510&show_icons=true&theme=tokyonight)]
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehel4510&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehel4510&layout=compact&theme=tokyonight)]
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <a href="https://github.com/snehel4510/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Snehel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=snehel4510&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 <a href="https://github.com/snehel4510/github-readme-activity-graph"><img alt="Snehel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehel4510&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
