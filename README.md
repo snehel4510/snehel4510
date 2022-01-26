@@ -3,13 +3,13 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, This is Snehel 😄</h1>
 <h3 align="center">Problem Solving | WebDev | DevOps | Sophomore</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me :
 - 👨‍🎓 **I am a first year B.tech CSE student from JUET Guna.**
 - 👨‍💻 **I am a problem solver, skilled in C++ and I do competitive programming as I love giving CP contests a lot.**
 - 💻 **Right now I am learning full stack web development and contributing to open source with my learning and knowledge.**
 - ☁ **I'm also interested in learning Devops and cloud native technologies.**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools :
 <p align="left"> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/></a>
