@@ -4,7 +4,7 @@
 <h3 align="center">Open-source enthusiast | Problem Solver | WebDev | DevOps | Sophomore</h3>
 
 ## 🙋‍♂️ About Me :
-- 👨‍🎓 **I am a first year B.tech CSE student from JUET Guna.**
+- 👨‍🎓 **I am a first year B.tech CSE student from <a href="https://www.juet.ac.in/">JUET Guna.</a>**
 - 👨‍💻 **I am a problem solver, skilled in C++ and I do competitive programming as I love giving CP contests a lot.**
 - 💻 **Right now I am learning full stack web development and contributing to open source with my learning and knowledge.**
 - ☁ **I'm also interested in learning Devops and cloud native technologies.**
