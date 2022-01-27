@@ -1,13 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, This is Snehel 😄</h1>
-<h3 align="center">Problem Solving | WebDev | DevOps | Sophomore</h3>
+<h3 align="center">Open-source enthusiast | Problem Solver | WebDev | DevOps | Sophomore</h3>
 
 ## 🙋‍♂️ About Me :
 - 👨‍🎓 **I am a first year B.tech CSE student from JUET Guna.**
 - 👨‍💻 **I am a problem solver, skilled in C++ and I do competitive programming as I love giving CP contests a lot.**
 - 💻 **Right now I am learning full stack web development and contributing to open source with my learning and knowledge.**
 - ☁ **I'm also interested in learning Devops and cloud native technologies.**
+- ✍ **I love to write often, Check out my <a href="https://snehel4510.hashnode.dev/">blogs.</a>**
 
 ## 🚀 Languages and Tools :
 <p align="left"> 
