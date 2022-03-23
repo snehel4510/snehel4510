@@ -33,7 +33,7 @@
 
 ## 📊 My Github Stats :
 
-![Snehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehel4510&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Snehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehel4510&show_icons=true&theme=tokyonight&count_private=true)
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehel4510&layout=compact&theme=tokyonight)
