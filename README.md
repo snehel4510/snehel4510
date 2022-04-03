@@ -47,7 +47,7 @@
 <p align="left">
   <a href = "mailto::sahilrps31@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.linkedin.com/in/snehel-922b75201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SNEHEL4"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/snehel4510"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://snehel4510.hashnode.dev/"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
   <a href = "https://stackoverflow.com/users/15621956/snehel"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
   <a href = "https://leetcode.com/sahilrps31/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
