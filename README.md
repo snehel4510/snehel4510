@@ -50,7 +50,7 @@
 <a href = "https://twitter.com/snehel4510"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://snehel4510.hashnode.dev/"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
   <a href = "https://stackoverflow.com/users/15621956/snehel"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-  <a href = "https://leetcode.com/sahilrps31/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+  <a href = "https://leetcode.com/snehel4510/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
   <a href = "https://www.codechef.com/users/snehel4510"><img src="https://img.icons8.com/color/48/000000/codechef.png"/></a>
   <a href = "https://www.qwiklabs.com/public_profiles/ab0849a5-e1dc-48be-9c89-2b668e53fafe "><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-qwiklabs-provides-real-cloud-environments-that-help-developers-logo-color-tal-revivo.png"/></a>
 </p>
