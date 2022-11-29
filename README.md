@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, This is <a href="https://snehel4510.github.io/snehel4510/">Snehel</a> 😄</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, This is <a href="https://github.com/snehel4510">Snehel</a> 😄</h1>
 <h3 align="center">Open-source enthusiast | Problem Solver | WebDev | DevOps | Sophomore</h3>
 
 ## 🙋‍♂️ About Me :
@@ -48,6 +48,7 @@
   <a href = "mailto::sahilrps31@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.linkedin.com/in/snehel-922b75201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/snehel4510"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href = "https://github.com/snehel4510"><img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
 <a href = "https://snehel4510.hashnode.dev/"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
   <a href = "https://stackoverflow.com/users/15621956/snehel"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
   <a href = "https://leetcode.com/snehel4510/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
