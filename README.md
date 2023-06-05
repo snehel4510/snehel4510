@@ -1,14 +1,7 @@
+# Hi, I'm Snehel 👋🏻 👨🏻‍💻
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, This is <a href="https://github.com/snehel4510">Snehel</a> 😄</h1>
-<h3 align="center">Open-source enthusiast | Problem Solver | WebDev | DevOps | Sophomore</h3>
-
-## 🙋‍♂️ About Me :
-- 👨‍🎓 **I am a 3rd year B.tech CSE student from <a href="https://www.juet.ac.in/">JUET Guna.</a>**
-- 👨‍💻 **I am a problem solver, skilled in C++**
-- 💻 **Right now I am learning full stack web development(MERN) and contributing to open source with my learning and knowledge.**
-- ☁ **I'm also interested in learning Devops and cloud native technologies.**
-- ✍ **I love to write often, Check out my <a href="https://snehel4510.hashnode.dev/">blogs.</a>**
+<h3 align="center">Open-source contributor | Problem Solver | MERN stack Web Developer | DevOps enthusiast </h3>
+<hr>
 
 ## 🚀 Languages and Tools :
 <p align="left"> 
@@ -31,6 +24,7 @@
   <a href = "https://cloud.google.com/gcp/"><img src="https://img.icons8.com/color/48/000000/google-cloud.png"/></a>
 </p>
 
+
 ## 📊 My Github Stats :
 
 ![Snehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehel4510&show_icons=true&theme=tokyonight&count_private=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehel4510&layout=compact&theme=tokyonight)
@@ -38,29 +32,12 @@
 ## 📊 My Leetcode Stats :
 [![snehel4510's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=snehel4510&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
-<!-- (https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <a href="https://github.com/snehel4510/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Snehel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=snehel4510&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-<a href="https://github.com/snehel4510/github-readme-activity-graph"><img alt="Snehel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=snehel4510&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-
 
 ## ❤ Connect with me :
 <p align="left">
-  <a href = "mailto::sahilrps31@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href = "mailto::sahilrps31@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.linkedin.com/in/snehel-922b75201/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/snehel4510"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href = "https://github.com/snehel4510"><img src="https://img.icons8.com/glyph-neue/64/000000/github.png"/></a>
 <a href = "https://snehel4510.hashnode.dev/"><img src="https://img.icons8.com/color/48/000000/hashnode.png"/></a>
-  <a href = "https://stackoverflow.com/users/15621956/snehel"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-  <a href = "https://leetcode.com/snehel4510/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
-  <a href = "https://www.codechef.com/users/snehel4510"><img src="https://img.icons8.com/color/48/000000/codechef.png"/></a>
-  <a href = "https://www.qwiklabs.com/public_profiles/ab0849a5-e1dc-48be-9c89-2b668e53fafe "><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-qwiklabs-provides-real-cloud-environments-that-help-developers-logo-color-tal-revivo.png"/></a>
-</p>
-<br>
-<hr>
-
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=snehel4510">
-</a>
-<a href="https://github.com/snehel4510?tab=followers"><img src="https://img.shields.io/github/followers/snehel4510?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href = "https://leetcode.com/snehel4510/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
 </p>
