@@ -1,6 +1,6 @@
 # Hi, I'm Snehel 👋🏻 👨🏻‍💻
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h3 align="center">Open-source contributor | Problem Solver | MERN stack Web Developer | DevOps enthusiast </h3>
+<h3 align="center"> MERN stack Web Developer | Problem Solver | Open-source contributor | DevOps enthusiast </h3>
 <hr>
 
 ## 🚀 Languages and Tools :
@@ -27,7 +27,8 @@
 
 ## 📊 My Github Stats :
 
-![Snehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehel4510&show_icons=true&theme=tokyonight&count_private=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehel4510&layout=compact&theme=tokyonight)
+![Snehel's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehel4510&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehel4510&layout=compact&theme=tokyonight)
 
 ## 📊 My Leetcode Stats :
 [![snehel4510's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=snehel4510&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
