@@ -9,7 +9,7 @@
 <p float="left">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
-    <img src="https://github.com/snehel4510/snehel4510/assets/79275152/103f4df2-1b4f-44f7-881e-e2a2f106a79f"/></a>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
 </p>
 
@@ -17,12 +17,12 @@
 <p float="left">
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/plasticine/50/000000/react.png"/> </a>
   <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank"> <img width="45" height="45" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> </a> 
 </p>
 
 ### Database
 <p float="left">
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/36/external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-green-tal-revivo"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
  
